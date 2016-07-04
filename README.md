@@ -1,2 +1,2 @@
-# pythonExamples
-Me practicing python
+# Python Examples
+Me practicing python, going through project Euler
